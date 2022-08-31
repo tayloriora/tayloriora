@@ -250,7 +250,7 @@ section .title::after{
 }
 .servicos .title::after{
     background: #111;
-    content: "Que oferecemos";
+    content: "Oferecemos";
 }
 .servicos .servicos-conteudo .card{
     width: calc(33% - 20px);
