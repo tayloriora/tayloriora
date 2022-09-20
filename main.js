@@ -15,13 +15,13 @@ $(document).ready(function(){
     });  
 
     var typed = new Typed(".typing", {
-        strings:["Programador Web"],
+        strings:["Programador Web", "Freelancer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
     });
     var typed = new Typed(".typing-2", {
-       strings:["Programador Web"],
+       strings:["Programador Web", "Freelancer"],
        typeSpeed:100,
        backSpeed:60,
        loop:true
@@ -33,13 +33,3 @@ $(document).ready(function(){
     });
 
 });
-
-
-
-
-
-
-
-
-
-
